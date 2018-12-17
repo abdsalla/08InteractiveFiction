@@ -20,6 +20,7 @@ void intro()
 	// sent here from main and is the first function that the player hits
 	cout << "Welcome to Fantasy Sprint, the quickest fantasy text game known to man!" << endl;
 	cout << "This where you will start!" << endl;
+	cout << "What is your character's name? " << endl;
 }
 
 // within characterbackground() there is an additional if statement that branches the story out again for each class
@@ -27,6 +28,9 @@ void characterbackground()
 {
 	if (characterclass == 'b')
 	{
+		
+
+
 		cout << "You are one the mightiest warriors in all of the land and plan to \n venture to unmapped territory to fight unknown terrors and claim prize along the way." << endl;
 		cout << "You need a vessel for your travels across the seas." << endl;
 		system("pause");

@@ -1,3 +1,5 @@
 ﻿  08InteractiveFiction.cpp
+c:\users\glory\documents\visual studio 2015\projects\08interactivefiction\08interactivefiction\08interactivefiction.cpp(25): warning C4930: 'Identity Displaycharacter(void)': prototyped function not called (was a variable definition intended?)
+c:\users\glory\documents\visual studio 2015\projects\08interactivefiction\08interactivefiction\08interactivefiction.cpp(24): warning C4930: 'Identity setName(std::string)': prototyped function not called (was a variable definition intended?)
   08InteractiveFiction.vcxproj -> c:\users\glory\documents\visual studio 2015\Projects\08InteractiveFiction\Debug\08InteractiveFiction.exe
   08InteractiveFiction.vcxproj -> c:\users\glory\documents\visual studio 2015\Projects\08InteractiveFiction\Debug\08InteractiveFiction.pdb (Full PDB)
